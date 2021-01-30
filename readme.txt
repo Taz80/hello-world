@@ -1,2 +1,2 @@
 Bonjour !
-c'est un défi Git
+C'est un défi Git
